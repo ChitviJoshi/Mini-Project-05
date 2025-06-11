@@ -26,15 +26,8 @@ To compare and analyze the time taken by different languages to convert text fil
 
 ## 📊 Sample Result Table
 
-| File Size | Time Taken (in seconds) |
-|-----------|--------------------------|
-|           | C | C++ | Java | R | Python |
-|-----------|----|-----|------|----|--------|
-| 200 MB    | 12 | 15  | 18   | 20 | 25     |
-| 400 MB    | 20 | 25  | 30   | 35 | 40     |
-| 600 MB    | 34 | 36  | 40   | 45 | 53     |
-| 800 MB    | 45 | 50  | 55   | 60 | 75     |
-| 1000 MB   | 55 | 60  | 70   | 80 | 100    |
+![g4](https://github.com/user-attachments/assets/78d72a47-97f4-4d02-9ab6-e7474c784a2f)
+
 
 ---
 
